@@ -10,5 +10,5 @@ jobs:
             - name: Running multiple
               run: |
                echo "My first github actions"
-               ld -ltra
+               ls -ltra
                cat README.md
